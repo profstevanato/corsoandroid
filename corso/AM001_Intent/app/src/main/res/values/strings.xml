@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AM001_Intent</string>
+    <string name="press_me">press me</string>
+    <string name="activity_two">Activity Two</string>
+    <string name="apriSchermo3">Apri il terzo schermo</string>
+    <string name="schermo_3">schermo 3</string>
+</resources>
